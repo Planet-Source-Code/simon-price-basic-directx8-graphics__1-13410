@@ -1,0 +1,9 @@
+FIRST DX8 - by Simon Price
+
+This is my first ever DirectX8 program, I have just had it installed for 2 hours so it's very simple. I thought this might be useful for someone who is in the same position as me learning DX8. One thing about DirectX8 that worries me, where's the 2D graphics gone? I'll be interested if anyone can do any 2D DX8 demos.
+
+No major copywrites attached to this, if you use the code it would be right to mention me in the credits, but I'm not too concerned as this is so lame.
+
+Disclaimer: Run this at your own risk, I do not guarantee this program will/will not do anything.
+
+Want more info? You are can email me at si@vbgames.co.uk or visit my website at www.vbgames.co.uk
